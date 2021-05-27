@@ -1,1 +1,2 @@
-# KillTheMonster
+# KILL-THE-MONSTER
+KILL THE MONSTER
